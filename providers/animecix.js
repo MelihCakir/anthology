@@ -87,7 +87,7 @@ var require_quality = __commonJS({
 // src/shared/config.js
 var require_config = __commonJS({
   "src/shared/config.js"(exports2, module2) {
-    var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+    var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
     var CONFIG_TTL_MS = 10 * 60 * 1e3;
     var _cfg = null;
     var _cfgTime = 0;
@@ -434,7 +434,7 @@ function getMeta(args) {
       const dData = yield dRes.json();
       const titleObj = dData.title || {};
       const name = titleObj.name || titleObj.name_english || "Anime";
-      const poster = titleObj.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+      const poster = titleObj.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
       const bg = titleObj.backdrop || poster;
       const desc = titleObj.description || `${name} - AnimeciX`;
       const videos = [];
