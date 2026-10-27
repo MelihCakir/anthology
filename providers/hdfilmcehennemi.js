@@ -35,7 +35,7 @@ var __async = (__this, __arguments, generator) => {
 // src/shared/config.js
 var require_config = __commonJS({
   "src/shared/config.js"(exports2, module2) {
-    var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+    var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
     var CONFIG_TTL_MS = 10 * 60 * 1e3;
     var _cfg = null;
     var _cfgTime = 0;
@@ -656,8 +656,8 @@ function getCatalog(args) {
               id: "hdfilmcehennemi:movie:" + slug,
               type: "movie",
               name: title || slug,
-              poster: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
-              background: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+              poster: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
+              background: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
               genres: ["Film", "HDFilmCehennemi"],
               description: title + " - HDFilmCehennemi 1080p Dual Ak\u0131\u015F"
             });
@@ -686,7 +686,7 @@ function getMeta(args) {
       var titleMatch = html.match(/<title>([^<]+)<\/title>/i);
       var title = titleMatch ? titleMatch[1].split("|")[0].split("-")[0].trim() : slug;
       var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-      var poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+      var poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
       return {
         meta: {
           id: "hdfilmcehennemi:movie:" + slug,
