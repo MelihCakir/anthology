@@ -284,7 +284,7 @@ async function getMeta(args) {
     const titleObj = dData.title || {};
 
     const name = titleObj.name || titleObj.name_english || 'Anime';
-    const poster = titleObj.poster || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+    const poster = titleObj.poster || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
     const bg = titleObj.backdrop || poster;
     const desc = titleObj.description || `${name} - AnimeciX`;
 

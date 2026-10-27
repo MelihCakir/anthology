@@ -4,8 +4,8 @@
       "id": "tv:Kanal7.tr",
       "type": "tv",
       "name": "Kanal 7 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/kanal7.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/kanal7.png",
       "description": "Kanal 7 HD Canlı [Türkçe]",
       "genres": [
         "ULUSAL KANALLAR"
@@ -15,8 +15,8 @@
       "id": "tv:Kanal7Avrupa.tr",
       "type": "tv",
       "name": "Kanal 7 Avrupa",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/kanal7.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/kanal7.png",
       "description": "Kanal 7 Avrupa Canlı [Türkçe]",
       "genres": [
         "ULUSAL KANALLAR"
@@ -26,8 +26,8 @@
       "id": "tv:ExxenSports7.tr",
       "type": "tv",
       "name": "Exxen Sports 7 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/exxenspor.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/exxenspor.png",
       "description": "Exxen Sports 7 HD Canlı [Türkçe]",
       "genres": [
         "SPOR KANALLARI"
@@ -37,8 +37,8 @@
       "id": "tv:TabiiSpor7.tr",
       "type": "tv",
       "name": "Tabii Spor 7 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tabiispor.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tabiispor.png",
       "description": "Tabii Spor 7 HD Canlı [Türkçe]",
       "genres": [
         "SPOR KANALLARI"

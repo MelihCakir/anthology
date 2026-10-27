@@ -4,8 +4,8 @@
       "id": "tv:TRTTurk.tr",
       "type": "tv",
       "name": "TRT Türk HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/trtturk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/trtturk.png",
       "description": "TRT Türk HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"
@@ -15,8 +15,8 @@
       "id": "tv:TYTTurk.tr",
       "type": "tv",
       "name": "TYT Türk HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tytturk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tytturk.png",
       "description": "TYT Türk HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"

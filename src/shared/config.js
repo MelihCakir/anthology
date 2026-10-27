@@ -2,7 +2,7 @@
  * Anthology Runtime Config Loader
  *
  * TEK KAYNAK DOSYASI: repo kökündeki config.json
- *   https://raw.githubusercontent.com/falsisdev/anthology/main/config.json
+ *   https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json
  *
  * Provider'lar derlenmiş varsayılan URL sabitleriyle çalışır; bu modül
  * config.json'u runtime'da çekerek (veya Node geliştirme ortamında yerel
@@ -12,7 +12,7 @@
  * Nuvio (QuickJS) uyumludur: Node-only crypto YOK, yalnız fetch + Promise.
  */
 
-var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
 var CONFIG_TTL_MS = 10 * 60 * 1000;
 
 var _cfg = null;

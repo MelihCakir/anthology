@@ -186,8 +186,8 @@ async function getCatalog(args) {
                 id: 'yabancidizi:show:' + slug,
                 type: 'tv',
                 name: title,
-                poster: 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
-                background: 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+                poster: 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
+                background: 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
                 genres: ['Yabancı Dizi', 'YabancıDizi'],
                 description: title + ' - YabancıDizi Arşivi'
             });
@@ -215,7 +215,7 @@ async function getMeta(args) {
             var title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').trim() : 'YabancıDizi';
 
             var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-            var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+            var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
             var epMatches = [...html.matchAll(/(?:dizi\/[^"'\s]*\/)?sezon-(\d+)\/bolum-(\d+)/gi)];
             var videos = [];

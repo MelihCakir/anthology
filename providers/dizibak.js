@@ -87,7 +87,7 @@ var require_quality = __commonJS({
 // src/shared/config.js
 var require_config = __commonJS({
   "src/shared/config.js"(exports2, module2) {
-    var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+    var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
     var CONFIG_TTL_MS = 10 * 60 * 1e3;
     var _cfg = null;
     var _cfgTime = 0;
@@ -531,7 +531,7 @@ function getCatalog(args) {
               id: "dizibak:show:" + item.slugOrId || title.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
               type: "tv",
               name: title,
-              poster: item.thumb || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+              poster: item.thumb || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
               background: item.thumb || "",
               genres: ["Yabanc\u0131 Dizi", "DiziBak"],
               description: title + " - DiziBak"
@@ -555,7 +555,7 @@ function getCatalog(args) {
             id: "dizibak:show:" + showName,
             type: "tv",
             name: showName.split("-").join(" "),
-            poster: imgM && (imgM[1] || imgM[2] || imgM[3]) || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+            poster: imgM && (imgM[1] || imgM[2] || imgM[3]) || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
             genres: ["Yabanc\u0131 Dizi", "DiziBak"],
             description: showName.split("-").join(" ") + " - DiziBak"
           });
@@ -587,7 +587,7 @@ function getMeta(args) {
             id: rawId,
             type: "tv",
             name,
-            poster: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+            poster: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
             genres: ["Yabanc\u0131 Dizi", "DiziBak"],
             description: name + " - DiziBak",
             videos: [{
@@ -613,7 +613,7 @@ function getMeta(args) {
             id: rawId,
             type: "tv",
             name: sname,
-            poster: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+            poster: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
             genres: ["Yabanc\u0131 Dizi", "DiziBak"],
             description: sname + " - DiziBak",
             videos

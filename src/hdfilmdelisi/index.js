@@ -216,8 +216,8 @@ async function getCatalog(args) {
                 id: 'hdfilmdelisi:movie:' + (f.slug || f.id),
                 type: 'movie',
                 name: title + (f.yayinYili ? ' (' + f.yayinYili + ')' : ''),
-                poster: f.afis || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
-                background: f.afis || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+                poster: f.afis || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
+                background: f.afis || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
                 genres: [(f.kategoriler && f.kategoriler[0] && f.kategoriler[0].ad) || 'Film', 'HDFilmDelisi'],
                 description: (f.orijinalBaslik || title) + ' - HDFilmDelisi'
             };
@@ -240,7 +240,7 @@ async function getMeta(args) {
         var titleMatch = html.match(/<title>([^<]+)<\/title>/i);
         var title = titleMatch ? titleMatch[1].split('|')[0].split('-')[0].trim() : 'HDFilmDelisi';
         var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-        var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+        var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
         return {
             meta: {
                 id: rawId, type: 'movie', name: title, poster: poster, background: poster,

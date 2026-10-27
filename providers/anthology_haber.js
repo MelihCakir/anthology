@@ -126,7 +126,7 @@ var require_quality = __commonJS({
 // src/shared/config.js
 var require_config = __commonJS({
   "src/shared/config.js"(exports2, module2) {
-    var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+    var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
     var CONFIG_TTL_MS = 10 * 60 * 1e3;
     var _cfg = null;
     var _cfgTime = 0;
@@ -242,7 +242,7 @@ function cfgReady() {
 }
 var path = typeof require !== "undefined" ? require("path") : null;
 var fs = typeof require !== "undefined" ? require("fs") : null;
-var M3U_REMOTE = "https://raw.githubusercontent.com/falsisdev/anthology/main/providers/M3U/Liste/canli.m3u";
+var M3U_REMOTE = "https://raw.githubusercontent.com/MelihCakir/anthology/main/providers/M3U/Liste/canli.m3u";
 var _HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",
   "Accept": "*/*"
@@ -292,7 +292,7 @@ function parseHaberChannels(content) {
         var channelName = nameMatch ? nameMatch[1].trim() : line.split(",").pop().trim();
         var rawId = tvgIdMatch && tvgIdMatch[1] ? tvgIdMatch[1].trim() : tvgNameMatch ? tvgNameMatch[1].trim() : channelName;
         var channelId = rawId.startsWith("tv:") ? rawId : "tv:" + rawId;
-        var logo = logoMatch ? logoMatch[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/default_tv.png";
+        var logo = logoMatch ? logoMatch[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/default_tv.png";
         var streamUrl = "";
         for (var j = i + 1; j < lines.length; j++) {
           var u = lines[j].trim();

@@ -21,7 +21,7 @@ function cfgReady() {
  * 5 Büyük Spor Platformu Hibrit Entegrasyonu (Taraftarium24, Arda, Alemdar, Mahsun, Papaz)
  */
 
-var M3U_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/providers/M3U/Liste/canli.m3u";
+var M3U_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/providers/M3U/Liste/canli.m3u";
 
 var _HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -81,7 +81,7 @@ function getCatalog(args) {
                     var channelName = nameMatch ? nameMatch[1].trim() : line.split(',').pop().trim();
                     var rawId = tvgIdMatch && tvgIdMatch[1] ? tvgIdMatch[1].trim() : (tvgNameMatch ? tvgNameMatch[1].trim() : channelName);
                     var channelId = rawId.startsWith('tv:') ? rawId : ('tv:' + rawId);
-                    var logo = logoMatch ? logoMatch[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/default_tv.png";
+                    var logo = logoMatch ? logoMatch[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/default_tv.png";
                     var genre = groupMatch ? groupMatch[1].replace(/[^\w\sğüşıöçĞÜŞİÖÇ]/gi, '').trim() : "Ulusal";
 
                     metas.push({
@@ -114,7 +114,7 @@ function getMeta(args) {
         .then(function(content) {
             var lines = content.split('\n');
             var name = targetId.replace(/^tv:/, '');
-            var logo = "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/default_tv.png";
+            var logo = "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/default_tv.png";
             var searchKey = cleanKey(targetId.replace(/^tv:/, ''));
             var lang = '';
 
@@ -163,7 +163,7 @@ function getMeta(args) {
                     id: targetId,
                     type: "tv",
                     name: "Canlı Yayın",
-                    poster: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/default_tv.png",
+                    poster: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/default_tv.png",
                     videos: [{ id: targetId, title: "Yayını Başlat" }]
                 }
             };

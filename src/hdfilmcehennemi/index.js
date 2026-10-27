@@ -599,8 +599,8 @@ async function getCatalog(args) {
             id: 'hdfilmcehennemi:movie:' + slug,
             type: 'movie',
             name: title || slug,
-            poster: 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
-            background: 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+            poster: 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
+            background: 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
             genres: ['Film', 'HDFilmCehennemi'],
             description: title + ' - HDFilmCehennemi 1080p Dual Akış'
           });
@@ -635,7 +635,7 @@ async function getMeta(args) {
     var title = titleMatch ? titleMatch[1].split('|')[0].split('-')[0].trim() : slug;
 
     var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-    var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+    var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
     return {
       meta: {

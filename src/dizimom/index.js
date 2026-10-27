@@ -320,7 +320,7 @@ async function getCatalog(args) {
 
         const parent = $(el).closest('.cat-container').parent();
         const img = parent.find('div.cat-img img[data-src]').attr('data-src') || parent.find('div.cat-img noscript img').attr('src') || parent.find('div.cat-img img').attr('src') || '';
-        const poster = img.startsWith('http') ? img : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+        const poster = img.startsWith('http') ? img : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
         metas.push({
           id: `dizimom:show:${slug}`,
@@ -360,7 +360,7 @@ async function getCatalog(args) {
           const parent = $(el).closest('.cat-container').parent();
           const img = parent.find('div.cat-img img[data-src]').attr('data-src') || parent.find('div.cat-img noscript img').attr('src') || parent.find('div.cat-img img').attr('src') || '';
           const desc = parent.find('div.cat_ozet').text().trim() || `${title} - DiziMom`;
-          const poster = img.startsWith('http') ? img : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+          const poster = img.startsWith('http') ? img : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
           metas.push({
             id: `dizimom:show:${slug}`,
@@ -398,7 +398,7 @@ async function getMeta(args) {
       const title = rawTitle.replace(/\s*izle\s*$/i, '').trim();
 
       const ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-      const poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+      const poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
       const epNumMatch = title.match(/(\d+)\s*\.?\s*bölüm/i);
       const seasonNumMatch = title.match(/(\d+)\s*\.?\s*sezon/i);
@@ -437,7 +437,7 @@ async function getMeta(args) {
       const title = rawTitle.replace(/\s*izle\s*$/i, '').trim();
 
       const ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-      const poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+      const poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
       const desc = $('div.cat_ozet').text().trim() || $('meta[name="description"]').attr('content') || `${title} - DiziMom Arşivi`;
 

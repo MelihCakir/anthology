@@ -3,8 +3,8 @@
     "id": "tv:ShowTV.tr",
     "type": "tv",
     "name": "Show TV HD",
-    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showtv.png",
-    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showtv.png",
+    "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/showtv.png",
+    "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/showtv.png",
     "description": "Show TV HD Canlı [Türkçe]",
     "genres": [
       "Ulusal"

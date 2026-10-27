@@ -4,8 +4,8 @@
       "id": "tv:TRTHaber.tr",
       "type": "tv",
       "name": "TRT Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/trthaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/trthaber.png",
       "description": "TRT Haber HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -15,8 +15,8 @@
       "id": "tv:NTV.tr",
       "type": "tv",
       "name": "NTV Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ntv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ntv.png",
       "description": "NTV Haber HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -26,8 +26,8 @@
       "id": "tv:HaberTurk.tr",
       "type": "tv",
       "name": "Habertürk TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/haberturk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/haberturk.png",
       "description": "Habertürk TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -37,8 +37,8 @@
       "id": "tv:TV100.tr",
       "type": "tv",
       "name": "TV100 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/tv100.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/tv100.png",
       "description": "TV100 HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -48,8 +48,8 @@
       "id": "tv:AHaber.tr",
       "type": "tv",
       "name": "A Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ahaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ahaber.png",
       "description": "A Haber HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -59,8 +59,8 @@
       "id": "tv:HalkTV.tr",
       "type": "tv",
       "name": "Halk TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/halktv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/halktv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/halktv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/halktv.png",
       "description": "Halk TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -70,8 +70,8 @@
       "id": "tv:Tele1.tr",
       "type": "tv",
       "name": "Tele 1 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/tele1.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/tele1.png",
       "description": "Tele 1 HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -81,8 +81,8 @@
       "id": "tv:TGRTHaber.tr",
       "type": "tv",
       "name": "TGRT Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/tgrthaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/tgrthaber.png",
       "description": "TGRT Haber HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -92,8 +92,8 @@
       "id": "tv:HaberGlobal.tr",
       "type": "tv",
       "name": "Haber Global HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/haberglobal.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/haberglobal.png",
       "description": "Haber Global HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -103,8 +103,8 @@
       "id": "tv:Kanal24.tr",
       "type": "tv",
       "name": "24 TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/24tv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/24tv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/24tv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/24tv.png",
       "description": "24 TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -114,8 +114,8 @@
       "id": "tv:BloombergHT.tr",
       "type": "tv",
       "name": "Bloomberg HT Ekonomi HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bloomberght.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bloomberght.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/bloomberght.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/bloomberght.png",
       "description": "Bloomberg HT Ekonomi HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -125,8 +125,8 @@
       "id": "tv:TVNET.tr",
       "type": "tv",
       "name": "TVNET HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/tvnet.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/tvnet.png",
       "description": "TVNET HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -136,8 +136,8 @@
       "id": "tv:UlkeTV.tr",
       "type": "tv",
       "name": "Ülke TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ulketv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ulketv.png",
       "description": "Ülke TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -147,8 +147,8 @@
       "id": "tv:Ekoturk.tr",
       "type": "tv",
       "name": "Ekotürk Ekonomi HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ekoturk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ekoturk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ekoturk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ekoturk.png",
       "description": "Ekotürk Ekonomi HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -158,8 +158,8 @@
       "id": "tv:BenguTurk.tr",
       "type": "tv",
       "name": "Bengü Türk TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/benguturk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/benguturk.png",
       "description": "Bengü Türk TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -169,8 +169,8 @@
       "id": "tv:FlashHaber.tr",
       "type": "tv",
       "name": "Flash Haber TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/flashhaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/flashhaber.png",
       "description": "Flash Haber TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -180,8 +180,8 @@
       "id": "tv:LiderHaber.tr",
       "type": "tv",
       "name": "Lider Haber TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/liderhaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/liderhaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/liderhaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/liderhaber.png",
       "description": "Lider Haber TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -191,8 +191,8 @@
       "id": "tv:TurkHaber.tr",
       "type": "tv",
       "name": "Türk Haber TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/turkhaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/turkhaber.png",
       "description": "Türk Haber TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -202,8 +202,8 @@
       "id": "tv:CNBCe.tr",
       "type": "tv",
       "name": "CNBC-e HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cnbce.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cnbce.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/cnbce.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/cnbce.png",
       "description": "CNBC-e HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -213,8 +213,8 @@
       "id": "tv:AkitTV.tr",
       "type": "tv",
       "name": "Akit TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/akittv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/akittv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/akittv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/akittv.png",
       "description": "Akit TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -224,8 +224,8 @@
       "id": "tv:BBCNews.tr",
       "type": "tv",
       "name": "BBC News HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bbcnews.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bbcnews.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/bbcnews.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/bbcnews.png",
       "description": "BBC News HD Canlı [İngilizce]",
       "genres": [
         "Haber"
@@ -235,8 +235,8 @@
       "id": "tv:CBSNews.tr",
       "type": "tv",
       "name": "CBS News HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cbsnews.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cbsnews.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/cbsnews.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/cbsnews.png",
       "description": "CBS News HD Canlı [İngilizce]",
       "genres": [
         "Haber"
@@ -246,8 +246,8 @@
       "id": "tv:FoxNews.tr",
       "type": "tv",
       "name": "Fox News HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/foxnews.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/foxnews.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/foxnews.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/foxnews.png",
       "description": "Fox News HD Canlı [İngilizce]",
       "genres": [
         "Haber"
@@ -257,8 +257,8 @@
       "id": "tv:France24.tr",
       "type": "tv",
       "name": "France 24 English HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/france24en.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/france24en.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/france24en.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/france24en.png",
       "description": "France 24 English HD Canlı [İngilizce]",
       "genres": [
         "Haber"
@@ -268,8 +268,8 @@
       "id": "tv:ReutersTV.tr",
       "type": "tv",
       "name": "Reuters TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/reuterstv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/reuterstv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/reuterstv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/reuterstv.png",
       "description": "Reuters TV HD Canlı [İngilizce]",
       "genres": [
         "Haber"

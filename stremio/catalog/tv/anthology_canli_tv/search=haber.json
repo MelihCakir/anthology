@@ -4,8 +4,8 @@
       "id": "tv:TRTHaber.tr",
       "type": "tv",
       "name": "TRT Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/trthaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/trthaber.png",
       "description": "TRT Haber HD Canlı [Türkçe]",
       "genres": [
         "HABER KANALLARI"
@@ -15,8 +15,8 @@
       "id": "tv:NTV.tr",
       "type": "tv",
       "name": "NTV Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ntv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ntv.png",
       "description": "NTV Haber HD Canlı [Türkçe]",
       "genres": [
         "HABER KANALLARI"
@@ -26,8 +26,8 @@
       "id": "tv:AHaber.tr",
       "type": "tv",
       "name": "A Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ahaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ahaber.png",
       "description": "A Haber HD Canlı [Türkçe]",
       "genres": [
         "HABER KANALLARI"
@@ -37,8 +37,8 @@
       "id": "tv:TGRTHaber.tr",
       "type": "tv",
       "name": "TGRT Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tgrthaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tgrthaber.png",
       "description": "TGRT Haber HD Canlı [Türkçe]",
       "genres": [
         "HABER KANALLARI"
@@ -48,8 +48,8 @@
       "id": "tv:HaberGlobal.tr",
       "type": "tv",
       "name": "Haber Global HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/haberglobal.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/haberglobal.png",
       "description": "Haber Global HD Canlı [Türkçe]",
       "genres": [
         "HABER KANALLARI"
@@ -59,8 +59,8 @@
       "id": "tv:FlashHaber.tr",
       "type": "tv",
       "name": "Flash Haber TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/flashhaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/flashhaber.png",
       "description": "Flash Haber TV HD Canlı [Türkçe]",
       "genres": [
         "HABER KANALLARI"
@@ -70,8 +70,8 @@
       "id": "tv:LiderHaber.tr",
       "type": "tv",
       "name": "Lider Haber TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/liderhaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/liderhaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/liderhaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/liderhaber.png",
       "description": "Lider Haber TV HD Canlı [Türkçe]",
       "genres": [
         "HABER KANALLARI"
@@ -81,8 +81,8 @@
       "id": "tv:TurkHaber.tr",
       "type": "tv",
       "name": "Türk Haber TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/turkhaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/turkhaber.png",
       "description": "Türk Haber TV HD Canlı [Türkçe]",
       "genres": [
         "HABER KANALLARI"

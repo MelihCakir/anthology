@@ -87,7 +87,7 @@ var require_quality = __commonJS({
 // src/shared/config.js
 var require_config = __commonJS({
   "src/shared/config.js"(exports2, module2) {
-    var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+    var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
     var CONFIG_TTL_MS = 10 * 60 * 1e3;
     var _cfg = null;
     var _cfgTime = 0;
@@ -465,7 +465,7 @@ function getCatalog(args) {
           seen.add(slug);
           const parent = $(el).closest(".cat-container").parent();
           const img = parent.find("div.cat-img img[data-src]").attr("data-src") || parent.find("div.cat-img noscript img").attr("src") || parent.find("div.cat-img img").attr("src") || "";
-          const poster = img.startsWith("http") ? img : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+          const poster = img.startsWith("http") ? img : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
           metas.push({
             id: `dizimom:show:${slug}`,
             type: "tv",
@@ -498,7 +498,7 @@ function getCatalog(args) {
             const parent = $(el).closest(".cat-container").parent();
             const img = parent.find("div.cat-img img[data-src]").attr("data-src") || parent.find("div.cat-img noscript img").attr("src") || parent.find("div.cat-img img").attr("src") || "";
             const desc = parent.find("div.cat_ozet").text().trim() || `${title} - DiziMom`;
-            const poster = img.startsWith("http") ? img : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+            const poster = img.startsWith("http") ? img : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
             metas.push({
               id: `dizimom:show:${slug}`,
               type: "tv",
@@ -533,7 +533,7 @@ function getMeta(args) {
         const rawTitle = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").trim() : "DiziMom B\xF6l\xFCm";
         const title = rawTitle.replace(/\s*izle\s*$/i, "").trim();
         const ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-        const poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+        const poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
         const epNumMatch = title.match(/(\d+)\s*\.?\s*bölüm/i);
         const seasonNumMatch = title.match(/(\d+)\s*\.?\s*sezon/i);
         const epNum = epNumMatch ? parseInt(epNumMatch[1]) : 1;
@@ -567,7 +567,7 @@ function getMeta(args) {
         const rawTitle = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").trim() : "DiziMom";
         const title = rawTitle.replace(/\s*izle\s*$/i, "").trim();
         const ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-        const poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+        const poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
         const desc = $("div.cat_ozet").text().trim() || $('meta[name="description"]').attr("content") || `${title} - DiziMom Ar\u015Fivi`;
         const videos = [];
         const seen = /* @__PURE__ */ new Set();

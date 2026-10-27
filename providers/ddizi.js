@@ -106,7 +106,7 @@ var require_quality = __commonJS({
 // src/shared/config.js
 var require_config = __commonJS({
   "src/shared/config.js"(exports2, module2) {
-    var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+    var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
     var CONFIG_TTL_MS = 10 * 60 * 1e3;
     var _cfg = null;
     var _cfgTime = 0;
@@ -697,8 +697,8 @@ function getCatalog(args) {
           id: `ddizi:show:${slug}`,
           type: "tv",
           name: title,
-          poster: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
-          background: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+          poster: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
+          background: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
           genres: ["Yerli Dizi", "DDizi"],
           description: `${title} - DDizi Yerli Dizi Ar\u015Fivi`
         });
@@ -747,7 +747,7 @@ function getMeta(args) {
         const titleMatch = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || html.match(/<title>([^<]+)<\/title>/i);
         const title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").replace(/\s*izle\s*$/i, "").trim() : "DDizi B\xF6l\xFCm";
         const posterMatch = html.match(/class="[^"]*(?:dizi-resmi|img-back-cat)[^"]*"[\s\S]*?(?:data-src|src)="([^"]*)"/i);
-        const poster = posterMatch ? posterMatch[1].startsWith("http") ? posterMatch[1] : `${BASE_URL}${posterMatch[1]}` : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+        const poster = posterMatch ? posterMatch[1].startsWith("http") ? posterMatch[1] : `${BASE_URL}${posterMatch[1]}` : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
         const epNumMatch = title.match(/(\d+)\s*\.?\s*bölüm/i);
         const epNum = epNumMatch ? parseInt(epNumMatch[1]) : 1;
         return {
@@ -778,7 +778,7 @@ function getMeta(args) {
         const rawTitle = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").replace(/\s*son\s*bölüm\s*izle.*$/i, "").replace(/\s*\|.*$/i, "").trim() : "DDizi";
         const title = rawTitle.replace(/\s*Full\s*.*$/i, "").trim() || rawTitle;
         const posterMatch = html.match(/class="[^"]*(?:dizi-resmi|img-back-cat)[^"]*"[\s\S]*?(?:data-src|src)="([^"]*)"/i);
-        const poster = posterMatch ? posterMatch[1].startsWith("http") ? posterMatch[1] : `${BASE_URL}${posterMatch[1]}` : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+        const poster = posterMatch ? posterMatch[1].startsWith("http") ? posterMatch[1] : `${BASE_URL}${posterMatch[1]}` : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
         const pageLinks = [...html.matchAll(/href="([^"]*sayfa-\d+)"/g)];
         const pagesToFetch = [];
         for (const p of pageLinks) {

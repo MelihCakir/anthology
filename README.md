@@ -4,8 +4,8 @@
   <p><strong>Nuvio ve Stremio için Doğrulanmış Türkçe Film, Dizi, Anime, Canlı TV ve Zengin Katalog Deposu</strong></p>
 
   <p>
-    <a href="https://github.com/falsisdev/anthology"><img src="https://img.shields.io/badge/Nuvio-Eklenti_Deposu-00e676?style=for-the-badge&logo=github&logoColor=white" alt="Nuvio" /></a>
-    <a href="stremio://falsisdev.github.io/anthology/stremio/manifest.json"><img src="https://img.shields.io/badge/Stremio-Canlı_TV-a855f7?style=for-the-badge&logo=stremio&logoColor=white" alt="Stremio Canlı TV" /></a>
+    <a href="https://github.com/MelihCakir/anthology"><img src="https://img.shields.io/badge/Nuvio-Eklenti_Deposu-00e676?style=for-the-badge&logo=github&logoColor=white" alt="Nuvio" /></a>
+    <a href="stremio://MelihCakir.github.io/anthology/stremio/manifest.json"><img src="https://img.shields.io/badge/Stremio-Canlı_TV-a855f7?style=for-the-badge&logo=stremio&logoColor=white" alt="Stremio Canlı TV" /></a>
     <a href="https://stremio-addons.net/addons/anthology"><img src="https://img.shields.io/badge/Stremio_Addons-anthology-8a2be2?style=for-the-badge&logo=stremio&logoColor=white" alt="Stremio Addons Directory" /></a>
   </p>
 
@@ -18,10 +18,10 @@
   </p>
 
   <p>
-    <a href="https://falsisdev.github.io/anthology">🌐 <strong>Web Sitesini Ziyaret Et</strong></a> &nbsp;|&nbsp;
+    <a href="https://MelihCakir.github.io/anthology">🌐 <strong>Web Sitesini Ziyaret Et</strong></a> &nbsp;|&nbsp;
     <a href="https://stremio-addons.net/addons/anthology">📦 <strong>Stremio-Addons.net Dizini</strong></a> &nbsp;|&nbsp;
-    <a href="stremio://falsisdev.github.io/anthology/stremio/manifest.json">🚀 <strong>Stremio'ya Tek Tıkla Ekle</strong></a> &nbsp;|&nbsp;
-    <a href="https://web.stremio.com/#/addons?addon=https%3A%2F%2Ffalsisdev.github.io%2Fanthology%2Fstremio%2Fmanifest.json">📱 <strong>Web Stremio'da Aç</strong></a> &nbsp;|&nbsp;
+    <a href="stremio://MelihCakir.github.io/anthology/stremio/manifest.json">🚀 <strong>Stremio'ya Tek Tıkla Ekle</strong></a> &nbsp;|&nbsp;
+    <a href="https://web.stremio.com/#/addons?addon=https%3A%2F%2FMelihCakir.github.io%2Fanthology%2Fstremio%2Fmanifest.json">📱 <strong>Web Stremio'da Aç</strong></a> &nbsp;|&nbsp;
     <a href="#-sıkça-sorulan-sorular-sss">❓ <strong>SSS</strong></a>
   </p>
 </div>
@@ -40,8 +40,8 @@
 
 | Platform | Kapsam Durumu | Kurulum Yöntemi | Ne İşe Yarar? |
 |---|:---:|---|---|
-| 🌟 **Nuvio** *(Önerilen)* | **Tüm Eklenti Sorunsuz & Eksiksiz** | `Ayarlar` → `Pluginler` → `Depo Ekle` yoluna aşağıdaki URL'yi yapıştırın:<br> `https://raw.githubusercontent.com/falsisdev/anthology/main/manifest.json` | **Tüm 42 eklentiyi** (film, dizi, anime ve canlı TV kanalları) yükler. |
-| 🟣 **Stremio** *(Tek Tık)* | **Yalnızca Canlı TV ile Sınırlı** | [**Stremio'ya Doğrudan Ekle (Tıklayın)**](stremio://falsisdev.github.io/anthology/stremio/manifest.json) veya [**Web Stremio'da Aç**](https://web.stremio.com/#/addons?addon=https%3A%2F%2Ffalsisdev.github.io%2Fanthology%2Fstremio%2Fmanifest.json)<br>*(Dizin: [stremio-addons.net](https://stremio-addons.net/addons/anthology))* |**138 Canlı TV kanalını** 7 vitrin kataloğu olarak Stremio ana sayfasına ekler. |
+| 🌟 **Nuvio** *(Önerilen)* | **Tüm Eklenti Sorunsuz & Eksiksiz** | `Ayarlar` → `Pluginler` → `Depo Ekle` yoluna aşağıdaki URL'yi yapıştırın:<br> `https://raw.githubusercontent.com/MelihCakir/anthology/main/manifest.json` | **Tüm 42 eklentiyi** (film, dizi, anime ve canlı TV kanalları) yükler. |
+| 🟣 **Stremio** *(Tek Tık)* | **Yalnızca Canlı TV ile Sınırlı** | [**Stremio'ya Doğrudan Ekle (Tıklayın)**](stremio://MelihCakir.github.io/anthology/stremio/manifest.json) veya [**Web Stremio'da Aç**](https://web.stremio.com/#/addons?addon=https%3A%2F%2FMelihCakir.github.io%2Fanthology%2Fstremio%2Fmanifest.json)<br>*(Dizin: [stremio-addons.net](https://stremio-addons.net/addons/anthology))* |**138 Canlı TV kanalını** 7 vitrin kataloğu olarak Stremio ana sayfasına ekler. |
 
 ---
 
@@ -59,7 +59,7 @@ Nuvio ve Stremio'da yerli dizileri, animeleri, sinema filmlerini ve **138 Canlı
 3. Aşağıdaki bağlantıyı yapıştırıp **Ekle** butonuna basın:
 
 ```text
-https://raw.githubusercontent.com/falsisdev/anthology/main/manifest.json
+https://raw.githubusercontent.com/MelihCakir/anthology/main/manifest.json
 ```
 
 ---
@@ -71,10 +71,10 @@ https://raw.githubusercontent.com/falsisdev/anthology/main/manifest.json
 2. Aşağıdaki statik katalog bağlantısını yapıştırıp **Ekle / Install** butonuna basın:
 
 ```text
-https://falsisdev.github.io/anthology/stremio/manifest.json
+https://MelihCakir.github.io/anthology/stremio/manifest.json
 ```
 
-*(Stremio uygulaması yüklüyse doğrudan **[Buraya Tıklayarak](stremio://falsisdev.github.io/anthology/stremio/manifest.json)** tek tıkla yükleyebilir veya [stremio-addons.net/addons/anthology](https://stremio-addons.net/addons/anthology) topluluk sayfasından kurabilirsiniz.)*
+*(Stremio uygulaması yüklüyse doğrudan **[Buraya Tıklayarak](stremio://MelihCakir.github.io/anthology/stremio/manifest.json)** tek tıkla yükleyebilir veya [stremio-addons.net/addons/anthology](https://stremio-addons.net/addons/anthology) topluluk sayfasından kurabilirsiniz.)*
 
 ---
 
@@ -93,7 +93,7 @@ Nuvio veya Stremio dışında **Apple TV, iOS, macOS, Android TV ve Windows** ci
 - **Çoklu Kaynak & HLS/Range Proxy:** Anthology'nin doğrulanmış içerik sağlayıcılarını yerel oynatıcılarla tam uyumlu hale getirir.
 - **Kolay Kurulum & Canlı Kullanım:** İster hazır sunucu üzerinden hesabınızla, ister kendi sisteminizde (Self-Hosted) çalıştırarak kullanabilirsiniz.
 
-👉 **Detaylı bilgi, kurulum rehberi ve kullanım için:** [**github.com/falsisdev/anthology-dav**](https://github.com/falsisdev/anthology-dav) *(veya [Kullanım Wiki Rehberi](https://github.com/falsisdev/anthology-dav/wiki))*
+👉 **Detaylı bilgi, kurulum rehberi ve kullanım için:** [**github.com/MelihCakir/anthology-dav**](https://github.com/MelihCakir/anthology-dav) *(veya [Kullanım Wiki Rehberi](https://github.com/MelihCakir/anthology-dav/wiki))*
 
 ---
 

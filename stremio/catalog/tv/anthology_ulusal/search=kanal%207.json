@@ -4,8 +4,8 @@
       "id": "tv:Kanal7.tr",
       "type": "tv",
       "name": "Kanal 7 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/kanal7.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/kanal7.png",
       "description": "Kanal 7 HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"
@@ -15,8 +15,8 @@
       "id": "tv:Kanal7Avrupa.tr",
       "type": "tv",
       "name": "Kanal 7 Avrupa",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/kanal7.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/kanal7.png",
       "description": "Kanal 7 Avrupa Canlı [Türkçe]",
       "genres": [
         "Ulusal"

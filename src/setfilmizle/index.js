@@ -413,8 +413,8 @@ async function getCatalog(args) {
                 id: 'setfilmizle:' + (c.isTv ? 'show:' : 'movie:') + encodeURIComponent(c.href),
                 type: c.isTv ? 'tv' : 'movie',
                 name: c.title,
-                poster: c.poster || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
-                background: c.poster || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+                poster: c.poster || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
+                background: c.poster || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
                 genres: [c.isTv ? 'Yabancı Dizi' : 'Film', 'SetFilmIzle'],
                 description: c.title + ' - SetFilmIzle'
             };
@@ -436,7 +436,7 @@ async function getMeta(args) {
         var titleMatch = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
         var title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').replace(/\s*\(20\d\d\)\s*/g, '').trim() : 'SetFilmIzle';
         var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-        var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+        var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
         if (href.includes('/dizi/')) {
             var videos = [];

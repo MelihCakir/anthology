@@ -4,8 +4,8 @@
       "id": "tv:AHaber.tr",
       "type": "tv",
       "name": "A Haber HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ahaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ahaber.png",
       "description": "A Haber HD Canlı [Türkçe]",
       "genres": [
         "Haber"

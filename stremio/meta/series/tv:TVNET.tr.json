@@ -3,8 +3,8 @@
     "id": "tv:TVNET.tr",
     "type": "tv",
     "name": "TVNET HD",
-    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
-    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
+    "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tvnet.png",
+    "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tvnet.png",
     "description": "TVNET HD Canlı [Türkçe]",
     "genres": [
       "Haber"

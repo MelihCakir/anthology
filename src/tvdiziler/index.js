@@ -318,8 +318,8 @@ async function getCatalog(args) {
                     id: 'tvdiziler:show:' + r.slug,
                     type: 'tv',
                     name: r.title,
-                    poster: r.poster || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
-                    background: r.poster || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+                    poster: r.poster || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
+                    background: r.poster || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
                     genres: ['Yerli Dizi', 'TvDiziler'],
                     description: r.title + ' - TvDiziler'
                 };
@@ -343,7 +343,7 @@ async function getCatalog(args) {
             var title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').trim() : '';
             if (!title) continue;
             var imgMatch = inner.match(/(?:data-src|src)=["']([^"']+)["']/i);
-            var poster = imgMatch ? (imgMatch[1].startsWith('http') ? imgMatch[1] : BASE_URL + '/' + imgMatch[1].replace(/^\/+/, '')) : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+            var poster = imgMatch ? (imgMatch[1].startsWith('http') ? imgMatch[1] : BASE_URL + '/' + imgMatch[1].replace(/^\/+/, '')) : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
             metas.push({
                 id: 'tvdiziler:show:' + slug,
                 type: 'tv',
@@ -376,7 +376,7 @@ async function getMeta(args) {
             var titleMatch = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || html.match(/<title>([^<]+)<\/title>/i);
             var title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').trim() : 'TvDiziler Bölüm';
             var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-            var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+            var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
             var numMatch = title.match(/(\d+)\s*\.?\s*bölüm/i) || epSlug.match(/-(\d+)-bolum/i);
             var epNum = numMatch ? parseInt(numMatch[1]) : 1;
@@ -412,7 +412,7 @@ async function getMeta(args) {
             var title = rawTitle.replace(/\s*\(?\d{4}\)?\s*$/i, '').trim() || rawTitle;
 
             var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-            var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+            var poster = ogImg ? ogImg[1] : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
             var ogDesc = html.match(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)["']/i) ||
                            html.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)["']/i);

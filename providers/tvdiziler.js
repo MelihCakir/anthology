@@ -87,7 +87,7 @@ var require_quality = __commonJS({
 // src/shared/config.js
 var require_config = __commonJS({
   "src/shared/config.js"(exports2, module2) {
-    var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+    var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
     var CONFIG_TTL_MS = 10 * 60 * 1e3;
     var _cfg = null;
     var _cfgTime = 0;
@@ -765,8 +765,8 @@ function getCatalog(args) {
             id: "tvdiziler:show:" + r.slug,
             type: "tv",
             name: r.title,
-            poster: r.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
-            background: r.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+            poster: r.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
+            background: r.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
             genres: ["Yerli Dizi", "TvDiziler"],
             description: r.title + " - TvDiziler"
           };
@@ -789,7 +789,7 @@ function getCatalog(args) {
         var title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").trim() : "";
         if (!title) continue;
         var imgMatch = inner.match(/(?:data-src|src)=["']([^"']+)["']/i);
-        var poster = imgMatch ? imgMatch[1].startsWith("http") ? imgMatch[1] : BASE_URL + "/" + imgMatch[1].replace(/^\/+/, "") : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+        var poster = imgMatch ? imgMatch[1].startsWith("http") ? imgMatch[1] : BASE_URL + "/" + imgMatch[1].replace(/^\/+/, "") : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
         metas.push({
           id: "tvdiziler:show:" + slug,
           type: "tv",
@@ -821,7 +821,7 @@ function getMeta(args) {
         var titleMatch = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || html.match(/<title>([^<]+)<\/title>/i);
         var title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").trim() : "TvDiziler B\xF6l\xFCm";
         var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-        var poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+        var poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
         var numMatch = title.match(/(\d+)\s*\.?\s*bölüm/i) || epSlug.match(/-(\d+)-bolum/i);
         var epNum = numMatch ? parseInt(numMatch[1]) : 1;
         return {
@@ -852,7 +852,7 @@ function getMeta(args) {
         var rawTitle = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").trim() : "TvDiziler";
         var title = rawTitle.replace(/\s*\(?\d{4}\)?\s*$/i, "").trim() || rawTitle;
         var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-        var poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+        var poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
         var ogDesc = html.match(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)["']/i) || html.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)["']/i);
         var description = ogDesc ? ogDesc[1] : title + " - TvDiziler Ar\u015Fivi";
         var epRegex = /<a data-navigo class="truncate" href="([^"]+)">Bölüm <data[^>]*>([^<]+)<\/data><\/a>\s*<h6[^>]*>\s*<a[^>]*itemprop="name">([^<]+)<\/a>/gi;

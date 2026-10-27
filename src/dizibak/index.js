@@ -357,7 +357,7 @@ async function getCatalog(args) {
             id: 'dizibak:show:' + item.slugOrId || title.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
             type: 'tv',
             name: title,
-            poster: item.thumb || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+            poster: item.thumb || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
             background: item.thumb || '',
             genres: ['Yabancı Dizi', 'DiziBak'],
             description: title + ' - DiziBak'
@@ -383,7 +383,7 @@ async function getCatalog(args) {
           id: 'dizibak:show:' + showName,
           type: 'tv',
           name: showName.split('-').join(' '),
-          poster: (imgM && (imgM[1] || imgM[2] || imgM[3])) || 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+          poster: (imgM && (imgM[1] || imgM[2] || imgM[3])) || 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
           genres: ['Yabancı Dizi', 'DiziBak'],
           description: showName.split('-').join(' ') + ' - DiziBak'
         });
@@ -415,7 +415,7 @@ async function getMeta(args) {
           id: rawId,
           type: 'tv',
           name: name,
-          poster: 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+          poster: 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
           genres: ['Yabancı Dizi', 'DiziBak'],
           description: name + ' - DiziBak',
           videos: [{
@@ -442,7 +442,7 @@ async function getMeta(args) {
           id: rawId,
           type: 'tv',
           name: sname,
-          poster: 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+          poster: 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
           genres: ['Yabancı Dizi', 'DiziBak'],
           description: sname + ' - DiziBak',
           videos: videos

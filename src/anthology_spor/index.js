@@ -23,7 +23,7 @@ function cfgReady() {
 var path = typeof require !== 'undefined' ? require('path') : null;
 var fs = typeof require !== 'undefined' ? require('fs') : null;
 
-var M3U_REMOTE = "https://raw.githubusercontent.com/falsisdev/anthology/main/providers/M3U/Liste/canli.m3u";
+var M3U_REMOTE = "https://raw.githubusercontent.com/MelihCakir/anthology/main/providers/M3U/Liste/canli.m3u";
 
 var _HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -90,7 +90,7 @@ function parseSportChannels(content) {
                 var channelName = nameMatch ? nameMatch[1].trim() : line.split(',').pop().trim();
                 var rawId = tvgIdMatch && tvgIdMatch[1] ? tvgIdMatch[1].trim() : (tvgNameMatch ? tvgNameMatch[1].trim() : channelName);
                 var channelId = rawId.startsWith('tv:') ? rawId : ('tv:' + rawId);
-                var logo = logoMatch ? logoMatch[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/default_tv.png";
+                var logo = logoMatch ? logoMatch[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/default_tv.png";
 
                 var namedSrcs = [];
                 if (srcAttrMatch && srcAttrMatch[1]) {

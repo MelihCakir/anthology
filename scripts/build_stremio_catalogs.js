@@ -16,8 +16,8 @@ const stremioManifest = {
     "tv_",
     "iptv_"
   ],
-  logo: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
-  background: "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+  logo: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
+  background: "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
   catalogs: [
     {
       type: "tv",
@@ -240,8 +240,8 @@ function generateSearchTerms(title) {
         id: item.id,
         type: itemType,
         name: item.name,
-        poster: item.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
-        background: item.background || item.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+        poster: item.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
+        background: item.background || item.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
         description: item.description || `${item.name} - Anthology`,
         genres: item.genres || [itemType]
       };
@@ -263,8 +263,8 @@ function generateSearchTerms(title) {
                   id: sItem.id,
                   type: sType,
                   name: sItem.name,
-                  poster: sItem.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
-                  background: sItem.background || sItem.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+                  poster: sItem.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
+                  background: sItem.background || sItem.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
                   description: sItem.description || `${sItem.name} - Anthology`,
                   genres: sItem.genres || [sType]
                 });

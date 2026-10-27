@@ -22,7 +22,7 @@
     "live-tv",
     "turkce"
   ],
-  "author": "falsisdev",
+  "author": "MelihCakir",
   "license": "MIT",
   "dependencies": {
     "cheerio-without-node-native": "^0.20.2",

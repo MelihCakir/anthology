@@ -4,8 +4,8 @@
       "id": "tv:ShowTV.tr",
       "type": "tv",
       "name": "Show TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showtv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showtv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/showtv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/showtv.png",
       "description": "Show TV HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"
@@ -15,8 +15,8 @@
       "id": "tv:StarTV.tr",
       "type": "tv",
       "name": "Star TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/startv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/startv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/startv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/startv.png",
       "description": "Star TV HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"
@@ -26,8 +26,8 @@
       "id": "tv:NOW.tr",
       "type": "tv",
       "name": "NOW TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/now.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/now.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/now.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/now.png",
       "description": "NOW TV HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"
@@ -37,8 +37,8 @@
       "id": "tv:BeyazTV.tr",
       "type": "tv",
       "name": "Beyaz TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beyaztv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beyaztv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/beyaztv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/beyaztv.png",
       "description": "Beyaz TV HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"
@@ -48,8 +48,8 @@
       "id": "tv:A2.tr",
       "type": "tv",
       "name": "A2 TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/a2.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/a2.png",
       "description": "A2 TV HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"
@@ -59,8 +59,8 @@
       "id": "tv:TV360.tr",
       "type": "tv",
       "name": "360 TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv360.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv360.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tv360.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/tv360.png",
       "description": "360 TV HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"
@@ -70,8 +70,8 @@
       "id": "tv:DiyanetTV.tr",
       "type": "tv",
       "name": "Diyanet TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/diyanettv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/diyanettv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/diyanettv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/diyanettv.png",
       "description": "Diyanet TV HD Canlı [Türkçe]",
       "genres": [
         "Ulusal"

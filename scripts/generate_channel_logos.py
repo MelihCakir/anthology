@@ -23,7 +23,7 @@ TMP_DIR = "/tmp/anthology_channel_gen"
 os.makedirs(TMP_DIR, exist_ok=True)
 os.makedirs(ASSETS_DIR, exist_ok=True)
 
-USER_AGENT = "AnthologyStaticBot/1.0 (https://github.com/falsisdev/anthology; contact@falsis.dev)"
+USER_AGENT = "AnthologyStaticBot/1.0 (https://github.com/MelihCakir/anthology; contact@falsis.dev)"
 
 CHANNELS = [
     # --- Ulusal Kanallar ---

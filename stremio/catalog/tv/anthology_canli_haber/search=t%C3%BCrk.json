@@ -4,8 +4,8 @@
       "id": "tv:BenguTurk.tr",
       "type": "tv",
       "name": "Bengü Türk TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/benguturk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/benguturk.png",
       "description": "Bengü Türk TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -15,8 +15,8 @@
       "id": "tv:TurkHaber.tr",
       "type": "tv",
       "name": "Türk Haber TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/turkhaber.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/turkhaber.png",
       "description": "Türk Haber TV HD Canlı [Türkçe]",
       "genres": [
         "Haber"
@@ -26,8 +26,8 @@
       "id": "tv:FinansTurk.tr",
       "type": "tv",
       "name": "Finans Türk",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/finansturk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/finansturk.png",
       "description": "Finans Türk Canlı [Türkçe]",
       "genres": [
         "Haber"

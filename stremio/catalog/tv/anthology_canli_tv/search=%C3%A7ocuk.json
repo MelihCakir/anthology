@@ -4,8 +4,8 @@
       "id": "tv:TRTCocuk.tr",
       "type": "tv",
       "name": "TRT Çocuk HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/trtcocuk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/trtcocuk.png",
       "description": "TRT Çocuk HD Canlı [Türkçe]",
       "genres": [
         "BELGESEL  ÇOCUK"
@@ -15,8 +15,8 @@
       "id": "tv:MinikaCocuk.tr",
       "type": "tv",
       "name": "Minika Çocuk HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/minikacocuk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/minikacocuk.png",
       "description": "Minika Çocuk HD Canlı [Türkçe]",
       "genres": [
         "BELGESEL  ÇOCUK"
@@ -26,8 +26,8 @@
       "id": "tv:TRTDiyanetCocuk.tr",
       "type": "tv",
       "name": "TRT Diyanet Çocuk HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtdiyanetcocuk.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtdiyanetcocuk.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/trtdiyanetcocuk.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/trtdiyanetcocuk.png",
       "description": "TRT Diyanet Çocuk HD Canlı [Türkçe]",
       "genres": [
         "BELGESEL  ÇOCUK"

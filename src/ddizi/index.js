@@ -246,8 +246,8 @@ async function getCatalog(args) {
                 id: `ddizi:show:${slug}`,
                 type: 'tv',
                 name: title,
-                poster: 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
-                background: 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png',
+                poster: 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
+                background: 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png',
                 genres: ['Yerli Dizi', 'DDizi'],
                 description: `${title} - DDizi Yerli Dizi Arşivi`
             });
@@ -301,7 +301,7 @@ async function getMeta(args) {
             const title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').replace(/\s*izle\s*$/i, '').trim() : 'DDizi Bölüm';
 
             const posterMatch = html.match(/class="[^"]*(?:dizi-resmi|img-back-cat)[^"]*"[\s\S]*?(?:data-src|src)="([^"]*)"/i);
-            const poster = posterMatch ? (posterMatch[1].startsWith('http') ? posterMatch[1] : `${BASE_URL}${posterMatch[1]}`) : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+            const poster = posterMatch ? (posterMatch[1].startsWith('http') ? posterMatch[1] : `${BASE_URL}${posterMatch[1]}`) : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
             const epNumMatch = title.match(/(\d+)\s*\.?\s*bölüm/i);
             const epNum = epNumMatch ? parseInt(epNumMatch[1]) : 1;
@@ -337,7 +337,7 @@ async function getMeta(args) {
             const title = rawTitle.replace(/\s*Full\s*.*$/i, '').trim() || rawTitle;
 
             const posterMatch = html.match(/class="[^"]*(?:dizi-resmi|img-back-cat)[^"]*"[\s\S]*?(?:data-src|src)="([^"]*)"/i);
-            const poster = posterMatch ? (posterMatch[1].startsWith('http') ? posterMatch[1] : `${BASE_URL}${posterMatch[1]}`) : 'https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png';
+            const poster = posterMatch ? (posterMatch[1].startsWith('http') ? posterMatch[1] : `${BASE_URL}${posterMatch[1]}`) : 'https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png';
 
             const pageLinks = [...html.matchAll(/href="([^"]*sayfa-\d+)"/g)];
             const pagesToFetch = [];

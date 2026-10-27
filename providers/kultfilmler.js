@@ -87,7 +87,7 @@ var require_quality = __commonJS({
 // src/shared/config.js
 var require_config = __commonJS({
   "src/shared/config.js"(exports2, module2) {
-    var CONFIG_URL = "https://raw.githubusercontent.com/falsisdev/anthology/main/config.json";
+    var CONFIG_URL = "https://raw.githubusercontent.com/MelihCakir/anthology/main/config.json";
     var CONFIG_TTL_MS = 10 * 60 * 1e3;
     var _cfg = null;
     var _cfgTime = 0;
@@ -496,8 +496,8 @@ function getCatalog(args) {
           id: "kultfilmler:movie:" + encodeURIComponent(c.href),
           type: "movie",
           name: c.title,
-          poster: c.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
-          background: c.poster || "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+          poster: c.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
+          background: c.poster || "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
           genres: ["Film", "KultFilmler"],
           description: c.title + " - KultFilmler"
         };
@@ -520,7 +520,7 @@ function getMeta(args) {
       var titleMatch = html.match(/<h1[^>]+class="[^"]*sec-h[^"]*"[^>]*>([\s\S]*?)<\/h1>/i) || html.match(/<h2[^>]+class="[^"]*sec-h[^"]*"[^>]*>([\s\S]*?)<\/h2>/i) || html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
       var title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").replace(/İzle\s*$/i, "").trim() : "KultFilmler";
       var ogImg = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-      var poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png";
+      var poster = ogImg ? ogImg[1] : "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png";
       if (href.includes("/dizi/")) {
         var videos = [];
         var seen = /* @__PURE__ */ new Set();

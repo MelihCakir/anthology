@@ -17,8 +17,8 @@
     "tv_",
     "iptv_"
   ],
-  "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
-  "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+  "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
+  "background": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
   "catalogs": [
     {
       "type": "tv",

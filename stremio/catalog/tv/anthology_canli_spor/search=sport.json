@@ -4,8 +4,8 @@
       "id": "tv:CBCSport.tr",
       "type": "tv",
       "name": "CBC Sport HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cbcsport.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cbcsport.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/cbcsport.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/cbcsport.png",
       "description": "CBC Sport HD Canlı [Azerbaycan Türkçesi]",
       "genres": [
         "Spor"
@@ -15,8 +15,8 @@
       "id": "tv:SSport.tr",
       "type": "tv",
       "name": "S Sport HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ssport.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ssport.png",
       "description": "S Sport HD Canlı [Türkçe]",
       "genres": [
         "Spor"
@@ -26,8 +26,8 @@
       "id": "tv:SSport2.tr",
       "type": "tv",
       "name": "S Sport 2 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ssport.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ssport.png",
       "description": "S Sport 2 HD Canlı [Türkçe]",
       "genres": [
         "Spor"
@@ -37,8 +37,8 @@
       "id": "tv:SSportPlus.tr",
       "type": "tv",
       "name": "S Sport Plus HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ssport.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/ssport.png",
       "description": "S Sport Plus HD Canlı [Türkçe]",
       "genres": [
         "Spor"
@@ -48,8 +48,8 @@
       "id": "tv:EuroSport1.tr",
       "type": "tv",
       "name": "Euro Sport 1 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/eurosport.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/eurosport.png",
       "description": "Euro Sport 1 HD Canlı [Türkçe]",
       "genres": [
         "Spor"
@@ -59,8 +59,8 @@
       "id": "tv:EuroSport2.tr",
       "type": "tv",
       "name": "Euro Sport 2 HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/eurosport.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/eurosport.png",
       "description": "Euro Sport 2 HD Canlı [Türkçe]",
       "genres": [
         "Spor"
@@ -70,8 +70,8 @@
       "id": "tv:SportFishingTV.tr",
       "type": "tv",
       "name": "Sport Fishing TV HD",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sportfishingtv.png",
-      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sportfishingtv.png",
+      "poster": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/sportfishingtv.png",
+      "background": "https://raw.githubusercontent.com/MelihCakirr/anthology/main/assets/canli/sportfishingtv.png",
       "description": "Sport Fishing TV HD Canlı [İngilizce]",
       "genres": [
         "Spor"
