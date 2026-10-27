@@ -1,7 +1,7 @@
 {
   "name": "Anthology",
   "version": "1.8.33",
-  "author": "falsisdev",
+  "author": "MelihCakir",
   "description": "Anthology - Türkçe Dizi, Film, Anime ve Canlı TV/Spor Eklenti Deposu",
   "scrapers": [
     {
@@ -9,7 +9,7 @@
       "name": "Anthology M3U",
       "description": "Binlerce yerli ve yabancı film ve dizi arşivi doğrudan HD HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv",
@@ -22,7 +22,7 @@
         "m3u8",
         "mp4"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
       "contentLanguage": [
         "tr"
       ],
@@ -138,7 +138,7 @@
       "name": "SineWix",
       "description": "5000+ HD film, dizi ve anime - Türkçe dublaj & altyazı, 1080p çift ses direct MKV.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -189,7 +189,7 @@
       "name": "Vidlink",
       "description": "TMDB entegrasyonlu global film ve dizi akış sağlayıcısı (4K/1080p direct MP4).",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -212,7 +212,7 @@
       "name": "DiziBak",
       "description": "Yabancı dizi arşivi, güncel bölümler kataloğu ve doğrudan d1iz-b0ok.xyz 1080p HLS master akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -252,9 +252,9 @@
       "id": "m3u.anthology.addon",
       "name": "Anthology Canlı TV",
       "description": "138 canlı TV kanalı — Ulusal, Spor, Haber, Belgesel & Çocuk, Müzik ve Sinema (7 vitrin kataloğu) + M3U kataloğu.",
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "channel"
@@ -306,7 +306,7 @@
       "name": "FilmModu",
       "description": "Türkçe dublaj ve altyazılı 4K/1080p full HD film akışları (ImgsAPI).",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -346,7 +346,7 @@
       "name": "HDFilmCehennemi",
       "description": "Binlerce HD film - Türkçe dublaj & altyazı, 1080p CloseLoad adaptif HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -357,7 +357,7 @@
         "hls",
         "m3u8"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
       "contentLanguage": [
         "tr",
         "en"
@@ -387,7 +387,7 @@
       "name": "DiziYou",
       "description": "DiziYou doğrudan depolama akışları ve Türkçe altyazı desteği.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -409,7 +409,7 @@
       "name": "DiziPod",
       "description": "Popüler yabancı ve yerli dizi/film arşivi — Doğrudan HLS master akışları ve Türkçe altyazı desteği.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie"
@@ -443,7 +443,7 @@
       "name": "SinemaCX",
       "description": "Sinema.gg arşivi üzerinden doğrudan 1080p Filmizle HLS master akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -465,7 +465,7 @@
       "name": "AnimeciX",
       "description": "TauVideo altyapısıyla binlerce anime bölümü (1080p, 720p, 480p direct MP4).",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie"
@@ -504,7 +504,7 @@
       "name": "Anizm",
       "description": "AnizmPlayer (FirePlayer HLS), OK.ru ve Sibnet üzerinden Türkçe anime akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie",
@@ -545,7 +545,7 @@
       "name": "AniMOM",
       "description": "HDPlayer HLS, Sibnet ve YourUpload üzerinden Türkçe anime akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie",
@@ -586,7 +586,7 @@
       "name": "AnimePraX",
       "description": "Sibnet, OK.ru ve Dailymotion üzerinden Türkçe anime akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie",
@@ -627,7 +627,7 @@
       "name": "Anizium",
       "description": "4K & 1080p Türkçe Dublaj ve Altyazılı Anime Kaynağı (Doğrudan MP4 + WebVTT).",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie",
@@ -638,7 +638,7 @@
       "formats": [
         "mp4"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/anizium.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/anizium.png",
       "contentLanguage": [
         "tr",
         "ja"
@@ -669,7 +669,7 @@
       "name": "AsyaAnimeleri",
       "description": "Anime ve donghua arşivi — Sibnet, Ok.ru, Mail.ru ve Rumble üzerinden 1080p doğrudan MP4 ve HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie"
@@ -710,7 +710,7 @@
       "name": "SonAnime",
       "description": "SonAnime Türkçe anime arşivi — Doğrudan Backblaze B2 ve Cloudflare CDN üzerinden 1080p, 720p ve 480p Türkçe altyazılı MP4 akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie"
@@ -749,7 +749,7 @@
       "name": "DiziBoxİzle",
       "description": "Güncel yabancı dizi arşivi — VidMoly ve Ok.ru üzerinden 1080p doğrudan HLS ve MP4 akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -790,7 +790,7 @@
       "name": "Anthology Canlı Spor",
       "description": "B-In Sports 1-5, Es Sport 1-2, TV-Bu Spor, Eksen Spor, Tab11 Spor ve 55 canlı spor kanalı (Çok kaynaklı canlı spor ve maç yayınları altyapısı). Taraftarium24 canlı maç ve spor yayınları motoru dahil.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "channel"
@@ -801,7 +801,7 @@
         "hls",
         "m3u8"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/aspor.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/aspor.png",
       "contentLanguage": [
         "tr"
       ],
@@ -834,7 +834,7 @@
       "name": "Anthology Canlı Haber",
       "description": "NTV, Habertürk, TRT Haber, A Haber, CNBC-e, TBMM TV ve 27 canlı haber kanalı.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "channel"
@@ -845,7 +845,7 @@
         "hls",
         "m3u8"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/ntv.png",
       "contentLanguage": [
         "tr"
       ],
@@ -878,7 +878,7 @@
       "name": "Anthology Ulusal Kanallar",
       "description": "TRT 1, ATV, Kanal D, Show TV, Star TV, NOW TV, TV8, TRT Genç, Euro D, TV4 ve 25 ulusal televizyon kanalı.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "channel"
@@ -889,7 +889,7 @@
         "hls",
         "m3u8"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt1.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/trt1.png",
       "contentLanguage": [
         "tr"
       ],
@@ -922,7 +922,7 @@
       "name": "DDizi",
       "description": "Yerli dizi arşivi, güncel bölümler kataloğu ve doğrudan Ciner/Yandex CDN MP4/HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -963,7 +963,7 @@
       "name": "DDiziBox",
       "description": "DDiziBox dizi ve film arşivi — Pilavyer üzerinden 1080p FHD doğrudan adaptif HLS master akışları ve Türkçe altyazı desteği.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv",
@@ -1038,7 +1038,7 @@
       "name": "DiziMom",
       "description": "Popüler yabancı diziler arşivi, güncel bölümler kataloğu ve doğrudan 1080p Fire HLS master akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1078,7 +1078,7 @@
       "name": "Vidmody",
       "description": "Doğrudan çoklu dil ve altyazı destekli HLS film ve dizi akış sağlayıcısı (1080p).",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1101,7 +1101,7 @@
       "name": "Webteİzle",
       "description": "Webteİzle arşivi üzerinden Türkçe Dublaj ve Altyazılı VidMoly 1080p master HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1123,7 +1123,7 @@
       "name": "YabancıDizi",
       "description": "YabancıDizi arşivi üzerinden Türkçe Dublaj ve Altyazılı VidMoly 1080p master HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1146,7 +1146,7 @@
       "name": "TvDiziler",
       "description": "TvDiziler.tv yerli dizi arşivi üzerinden 1080p HLS (Twitter Amplify), doğrudan MP4 (Ciner/CDN) ve YouTube akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1187,7 +1187,7 @@
       "name": "SetFilmIzle",
       "description": "SetFilmIzle arşivi üzerinden FastPlay 1080p HLS master akışları ve TR/EN altyazılar (film + dizi).",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1238,7 +1238,7 @@
       "name": "KultFilmler",
       "description": "KultFilmler arşivi üzerinden VidMoly/Vidpapi HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1278,7 +1278,7 @@
       "name": "HDFilmDelisi",
       "description": "HDFilmDelisi JSON API arşivi üzerinden VidMody 1080p HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1318,7 +1318,7 @@
       "name": "HDFilmIzle",
       "description": "HDFilmIzle (Ink/Vip) arşivi üzerinden FastPlay 1080p HLS master akışları ve TR/EN altyazılar.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv"
@@ -1358,7 +1358,7 @@
       "name": "Anthology Belgesel & Çocuk",
       "description": "TRT Belgesel, TRT Çocuk, Minika, TRT Diyanet Çocuk, Çiftçi TV, TLC, DMAX, Travelxp ve 12 canlı belgesel & çocuk kanalı.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "channel"
@@ -1369,7 +1369,7 @@
         "hls",
         "m3u8"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/trtbelgesel.png",
       "contentLanguage": [
         "tr"
       ],
@@ -1402,7 +1402,7 @@
       "name": "Anthology Müzik & Eğlence",
       "description": "Kral Pop, Power, Number 1, Dream Türk, TMB TV, Show Max ve 16 canlı müzik & eğlence kanalı.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "channel"
@@ -1413,7 +1413,7 @@
         "hls",
         "m3u8"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kralpop.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/kralpop.png",
       "contentLanguage": [
         "tr"
       ],
@@ -1446,7 +1446,7 @@
       "name": "Anthology Sinema Kanalları",
       "description": "Cine 1, FX, TRT Nostalji ve canli.m3u SİNEMA KANALLARI grubundaki tüm canlı sinema yayınları (Türkçe + İngilizce ses).",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "channel"
@@ -1457,7 +1457,7 @@
         "hls",
         "m3u8"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/canli/cine1.png",
       "contentLanguage": [
         "tr"
       ],
@@ -1490,7 +1490,7 @@
       "name": "DiziWatch",
       "description": "diziwatch.ac arşivi üzerinden güncel anime ve yabancı dizi akışları sunar.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "movie",
         "tv",
@@ -1504,7 +1504,7 @@
         "mp4",
         "m3u8"
       ],
-      "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+      "logo": "https://raw.githubusercontent.com/MelihCakir/anthology/main/assets/logo_1_transparent.png",
       "contentLanguage": [
         "tr"
       ],
@@ -1520,7 +1520,7 @@
       "name": "SeiCode",
       "description": "SeiCode anime platformu — TauVideo, Ok.ru, Sibnet, VidMoly ve MP4Upload üzerinden 1080p doğrudan MP4 ve HLS akışları.",
       "version": "1.8.33",
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "supportedTypes": [
         "tv",
         "movie",
@@ -1558,7 +1558,7 @@
       "supportsExternalPlayer": true
     },
     {
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "version": "1.8.33",
       "enabled": true,
       "supportsExternalPlayer": true,
@@ -1592,7 +1592,7 @@
       ]
     },
     {
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "version": "1.8.33",
       "enabled": true,
       "supportsExternalPlayer": true,
@@ -1626,7 +1626,7 @@
       ]
     },
     {
-      "author": "falsisdev",
+      "author": "MelihCakir",
       "version": "1.8.33",
       "enabled": true,
       "supportsExternalPlayer": true,
