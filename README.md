@@ -18,7 +18,7 @@
   </p>
 
   <p>
-    <a href="https://MelihCakir.github.io/anthology">🌐 <strong>Web Sitesini Ziyaret Et</strong></a> &nbsp;|&nbsp;
+    <a href="https://MelihCakir.github.io/">🌐 <strong>Web Sitesini Ziyaret Et</strong></a> &nbsp;|&nbsp;
     <a href="https://stremio-addons.net/addons/anthology">📦 <strong>Stremio-Addons.net Dizini</strong></a> &nbsp;|&nbsp;
     <a href="stremio://MelihCakir.github.io/anthology/stremio/manifest.json">🚀 <strong>Stremio'ya Tek Tıkla Ekle</strong></a> &nbsp;|&nbsp;
     <a href="https://web.stremio.com/#/addons?addon=https%3A%2F%2FMelihCakir.github.io%2Fanthology%2Fstremio%2Fmanifest.json">📱 <strong>Web Stremio'da Aç</strong></a> &nbsp;|&nbsp;
